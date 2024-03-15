@@ -1,0 +1,18 @@
+.emptyDiv{
+    /* background-color: rgb(77, 74, 74); */
+    height:110px;
+}
+.mealsListDiv{
+    background-color: white;
+    /* height:500px; */
+    border-radius: 20px;
+    /* background-color: rgb(69, 177, 177); */
+margin:10px;
+}
+@media(min-width:900px){
+    .mealsListDiv{
+      margin:auto;
+        width:900px !important;
+        max-width:none;
+    }
+}

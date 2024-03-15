@@ -1,0 +1,36 @@
+.mealsSummaryWrapper{
+    position: relative;
+}
+.mealsImage{
+    width:100%;
+    height:300px;
+}
+.mealsSummaryDiv{
+    background-color: rgb(77, 74, 74);
+    border: x solid white;
+    position: absolute;
+    top:250px;
+    height:220px;
+    margin:14px;
+    padding:10px;
+    border-radius: 15px;
+    color:white;
+    min-width: 300px;
+    max-width:800px;
+    left: 50%;
+    transform: translate(-52%, -50%);
+}
+.mealsSummaryTitle{
+    text-align: center;
+    font-size: 22px;
+    padding:10px;
+    
+}
+.mealsSummaryP1{
+    padding:10px;
+    text-align: center;
+}
+.mealsSummaryP2{
+    padding:10px;
+    text-align: center;
+}

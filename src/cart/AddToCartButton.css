@@ -1,0 +1,23 @@
+.mealAmountForm{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+
+}
+.mealAmountFormDiv{
+    display: flex;
+    width:100px;
+    align-items: center;
+}
+.mealAmount{
+    width:30px;
+    height:15px;
+}
+.addButton{
+    width:100px;
+    height:23px;
+    background-color: rgb(177, 3, 3);
+    color:white;
+    border-radius: 10px;
+    font-weight: bolder;
+}

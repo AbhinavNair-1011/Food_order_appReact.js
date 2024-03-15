@@ -1,0 +1,18 @@
+.cartListItem{
+    padding:10px;
+    margin:5px;
+    background-color: rgb(236, 220, 199);
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.itemCount{
+ border: 2px solid rgb(235, 16, 16);
+ border-radius: 40%;
+ margin:6px;
+ padding:1px;
+ color:white;
+ background-color: black;
+ font-size: 14px;
+ font-weight: 700;
+}

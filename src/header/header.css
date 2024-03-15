@@ -1,0 +1,16 @@
+header{
+    background-color: rgb(219, 22, 22);
+    color:rgb(255, 255, 255);
+    height:13vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    z-index: 3;
+    width:100%;
+
+}
+.header-title{
+    font-size: 1.6rem;
+    
+}

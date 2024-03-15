@@ -1,0 +1,31 @@
+.cartButton{
+    width:120px;
+    height:35%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(141, 5, 5);
+    border-radius: 20px;
+}
+.cartAdded{
+    width:120px;
+    height:35%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(26, 145, 10);
+    border-radius: 10px;
+
+}
+.cart-heading{
+    color:white;
+    font-size: 13px;
+}
+.cart-number{
+    color:rgb(233, 26, 11);
+    background-color: rgb(0, 252, 252);
+    width:15px;
+    border-radius: 50%;
+    font-weight: 700;
+    
+}
